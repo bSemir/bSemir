@@ -19,5 +19,7 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="kotbootstraplin" width="40" height="40" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-plain.svg" title="postgresql" alt="postgresql" width="40" height="40" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/sequelize/sequelize-plain.svg" title="sequelize" alt="sequelize" width="40" height="40" style="max-width: 100%;"></a>
-  
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40" style="max-width: 100%;"></a>
  </div>
+ 
+ #### - :mailbox: How to reach me: 
