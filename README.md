@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently studying Computer Science at Faculty of Electrical Engineering, Sarajevo
 - 🌱 I’m interested in Full Stack Web Development
-<br>
 #### :computer: Here is a list of *languages* and *tools* I've used the most so far:
 
 <div align="left" dir="auto">
@@ -19,15 +18,13 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="kotbootstraplin" width="40" height="40" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-plain.svg" title="postgresql" alt="postgresql" width="40" height="40" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/sequelize/sequelize-plain.svg" title="sequelize" alt="sequelize" width="40" height="40" style="max-width: 100%;"></a>
-  <br>
 <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" height="40" style="vertical-align:top; margin:4px">
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40" style="max-width: 100%;"></a>
  </div>
- <br>
  <div align="left" dir="auto">
+ 
   #### - :mailbox: How to reach me
-  <br>
- <a href="https://www.linkedin.com/in/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/e0278098417dddf9727cfee70a5eb84af38a20705b3bded56cf91cb5feb29d7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="width: 100px;">
+ <a href="https://www.linkedin.com" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/e0278098417dddf9727cfee70a5eb84af38a20705b3bded56cf91cb5feb29d7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="width: 100px; align="center">
   </a>
 </div>
