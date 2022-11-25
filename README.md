@@ -5,7 +5,7 @@
 #### Hello there, I'm Semir 👋
 
 - 🔭 I’m currently studying Computer Science at Faculty of Electrical Engineering, Sarajevo
-- 🌱 I’m interested in Full Stack Web Development
+- 🌱 I’m interested in Backend Web Development
 #### :computer: Here is a list of *languages* and *tools* I've used the most so far:
 
 <div align="left" dir="auto">
