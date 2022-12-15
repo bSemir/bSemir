@@ -40,7 +40,7 @@
   </a>
   <br> <br>
   </div>
-<div dir="auto"> 
+<div dir="auto" allign="center"> 
  Stats:
   
   ![Semir's GitHub stats](https://github-readme-stats.vercel.app/api?username=bSemir&count_private=true&show_icons=true&theme=radical)
