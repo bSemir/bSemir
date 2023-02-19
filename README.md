@@ -5,7 +5,7 @@
 <h1 align="center">I'm Semir</h1>
 <h3 align="center">a Backend Software Engineer Intern at  tech387.com</h3>
 <br>
-<img align="right" alt="Coding pic" width="320" height="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473n8bt4jkigsnfpvigzdc8u17248co72dc6hzv9jv&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding pic" width="330" height="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473n8bt4jkigsnfpvigzdc8u17248co72dc6hzv9jv&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently studying **Computer Science at the Faculty of Electrical Engineering in Sarajevo**
 
