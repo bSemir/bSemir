@@ -11,7 +11,7 @@
 
 - 🌱 I’m focused on **Backend Web Development**
 
-- 📫 How to reach me: **semir.blekich@gmail.com**
+- 📫 Send me an email: **semir.blekich@gmail.com**
 
 - ⚡ Fun fact: **01101110 01101111 01110100 01101000 01101001 01101110 01100111**
 
