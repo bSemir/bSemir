@@ -2,7 +2,7 @@
   <img src="https://camo.githubusercontent.com/06e5f481dcab3de7c46fa4df999b3cb172d10ef406a882544f09c8038d87b25d/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d46757475726126636f6c6f723d4637363330432673697a653d33352677696474683d353030266c696e65733d48656c6c6f2b54686572652b2546302539462539312538423b4e6963652b746f2b6d6565742b796f752e2e2e" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Futura&amp;color=F7630C&amp;size=35&amp;width=500&amp;lines=Hello+There+%F0%9F%91%8B;Nice+to+meet+you..." style="max-width: 100%;">
 </div>
 
-<h1 align="center">I'm Semir</h1>
+<h1 align="center">I'm Semir, </h1>
 <h3 align="center">a Backend Software Engineer Intern at tech387.com</h3>
 <br>
 <img align="right" alt="Coding pic" width="330" height="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473n8bt4jkigsnfpvigzdc8u17248co72dc6hzv9jv&rid=giphy.gif&ct=g">
